@@ -1,0 +1,70 @@
+{
+  "appTitle": "Class 5 Learning Portal",
+  "syllabus": "Syllabus",
+  "resources": "Official & Video Resources",
+  "quiz": "Interactive Quiz",
+  "exercises": "Exercises & Assignments",
+  "progress": "Progress in {{subject}}:",
+  "randomizeQuiz": "Randomize Quiz",
+  "submit": "Submit",
+  "next": "Next",
+  "complete": "Quiz complete! Your score: {{score}} / {{total}}",
+  "noQuiz": "No quiz available.",
+  "english": "English",
+  "mathematics": "Mathematics",
+  "science": "Science",
+  "socialStudies": "Social Studies",
+  "generalKnowledge": "General Knowledge",
+  "selectLanguage": "Select Language",
+  "englishTopics": [
+    "One Friday Morning",
+    "Smile (Poem)",
+    "My Brother, My Brother",
+    "The Brave Little Kite (Poem)",
+    "Who Will Be Ningthou",
+    "The Wonderful World (Poem)",
+    "Down The Volcano",
+    "Downhill On A Bicycle (Poem)",
+    "Listening Text"
+  ],
+  "mathematicsTopics": [
+    "Numbers And Numeration",
+    "Roman Numerals",
+    "Addition And Subtraction",
+    "Multiplication And Division",
+    "Factors And Multiples",
+    "Fractions",
+    "Decimal Numbers",
+    "Unitary Method",
+    "Money And Bills"
+  ],
+  "scienceTopics": [
+    "Food And Health",
+    "Growing Plants",
+    "Skeletal System And Nervous System",
+    "Safety And First Aid",
+    "Air And Water",
+    "Soil Erosion And Conservation",
+    "Care For Environment",
+    "Projects/Activities"
+  ],
+  "socialStudiesTopics": [
+    "Movements Of The Earth-Their Effects",
+    "Weather And Climate",
+    "Evolution Of Transport And Communication",
+    "Struggle Towards Freedom",
+    "India Wins Freedom",
+    "Climatic Zones",
+    "Elections",
+    "The United Nations",
+    "Be Clean! Be Healthy!"
+  ],
+  "generalKnowledgeTopics": [
+    "Good Health Formula",
+    "Emergency Care",
+    "I Love My India",
+    "Cricketology",
+    "Helpful Robots At Home",
+    "Natural Wonders"
+  ]
+}

@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.MuiButton-root {
+  transition: transform 0.2s, background 0.2s;
+}
+.MuiButton-root:hover {
+  transform: scale(1.08);
+  background: #ff9800 !important;
+  color: #fff !important;
+}
+
+.MuiTypography-h3 {
+  transition: color 0.3s, text-shadow 0.3s;
+}
+.MuiTypography-h3:hover {
+  color: #ff9800;
+  text-shadow: 2px 2px 8px #1976d2;
+}
