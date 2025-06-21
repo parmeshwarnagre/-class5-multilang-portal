@@ -1,0 +1,5 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="40" cy="40" r="38" fill="#1976d2" stroke="#ff9800" stroke-width="4"/>
+  <text x="50%" y="45%" text-anchor="middle" fill="#fff" font-size="22" font-family="Comic Sans MS, Comic Sans, cursive" dy=".3em">5</text>
+  <text x="50%" y="65%" text-anchor="middle" fill="#ffeb3b" font-size="12" font-family="Comic Sans MS, Comic Sans, cursive" dy=".3em">Class</text>
+</svg>

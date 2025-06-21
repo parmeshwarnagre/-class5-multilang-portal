@@ -15,6 +15,7 @@ import GeneralKnowledge from './pages/GeneralKnowledge';
 import { ProgressProvider } from './components/ProgressContext.jsx';
 import { useTranslation } from 'react-i18next';
 import LanguageSwitcher from './components/LanguageSwitcher.jsx';
+import class5Logo from './assets/class5-logo.svg';
 
 // Subject Pages (to be implemented)
 const Home = () => (
@@ -119,6 +120,7 @@ function App() {
           <CssBaseline />
           <AppBar position="static">
             <Toolbar>
+              <img src={class5Logo} alt="Class 5 Logo" style={{ height: 48, marginRight: 12, verticalAlign: 'middle' }} />
               <SchoolIcon sx={{ mr: 2 }} />
               <Typography
                 variant="h6"
@@ -127,7 +129,7 @@ function App() {
                 sx={{ flexGrow: 1, color: 'inherit', textDecoration: 'none', cursor: 'pointer',
                   ':hover': { color: '#fff', textShadow: '2px 2px 8px #1976d2' } }}
               >
-                {t('appTitle')}
+                Class 5 Multilingual Learning Portal
               </Typography>
               <LanguageSwitcher />
               {subjects.map((subj) => (

@@ -1,10 +1,11 @@
-# CBSE/NCERT Class 5 Comprehensive Learning Portal
+# Class 5 Multilingual Learning Portal
 
-This website is designed for Class 5 students following the CBSE/NCERT syllabus. It provides:
+This website is designed for Class 5 students in English, Hindi, and Marathi. It provides:
 - Syllabus-based navigation for English, Mathematics, Science, Social Studies, and General Knowledge
-- Official resources (NCERT, ePathshala, DIKSHA, etc.)
+- Official resources (NCERT, ePathshala, DIKSHA, Magnet Brains, etc.)
 - Curated YouTube playlists and quality learning links
-- Exercises and assignments for each topic
+- Interactive quizzes, exercises, and assignments for each topic
+- Progress tracking and randomized practice
 - Child-friendly, accessible, and modern UI using React and Material-UI
 
 ## Getting Started
@@ -31,13 +32,7 @@ Contributions are welcome! Please ensure all content is accurate and age-appropr
 - [NCERT eBooks](https://ncert.nic.in/textbook.php)
 - [ePathshala](https://epathshala.nic.in/)
 - [DIKSHA Portal](https://diksha.gov.in/)
-
-**YouTube Playlists:**
-- [Magnet Brains Class 5 English](https://www.youtube.com/playlist?list=PLVLoWQFkZbhVvQnQn6QwQnQn6QwQnQn6)
-- [Vedantu Young Wonders Class 5 Maths](https://www.youtube.com/playlist?list=PLVLoWQFkZbhVvQnQn6QwQnQn6QwQnQn6)
-- [Magnet Brains Class 5 Science](https://www.youtube.com/playlist?list=PLVLoWQFkZbhVvQnQn6QwQnQn6QwQnQn6)
-- [Learn with Fun Class 5 SST](https://www.youtube.com/playlist?list=PLVLoWQFkZbhVvQnQn6QwQnQn6QwQnQn6)
-- [BYJU'S General Knowledge](https://www.youtube.com/playlist?list=PLVLoWQFkZbhVvQnQn6QwQnQn6QwQnQn6)
+- [Magnet Brains YouTube](https://www.youtube.com/@MagnetBrainsEducation)
 
 ---
 
